@@ -1,19 +1,20 @@
 ## Hi there 👋
 
 <!--
-**gerardozhamir/gerardozhamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gerardozhamir/gerardozhamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-<h1 align="center">Hi 👋, I'm Gerardo Zhamir Lascano Vera</h1>
+<h1 align="center">Hi 👋, I'm Gerardo Lascano Vera</h1>
 <h3 align="center">QA Engineer from Spain</h3>
 
-- 🔭 I’m currently working on **Capitole Consulting**
+🔭 I’m currently working on [Capitole Consulting] 	
 
-- 🌱 I’m currently learning **API Testing**
-
-- 📫 How to reach me **gerardozhamir@gmail.com**
+🌱 I’m currently learning [API Testing with playwright]   	  
+  	  <p>  </p>
+- 📫 How to reach me: <b>gerardozhamir@gmail.com</b>    		
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/gerardo-zhamir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gerardo-zhamir/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
